@@ -8,3 +8,8 @@ void setup(){
   files = dir.listFiles();
   println(files);
 }
+
+void parseFileNames(){
+  
+  
+}
